@@ -104,12 +104,15 @@ All results, insights, and visualizations are documented here.
 ## 📈 Visualizations
 
 1. **Class Distribution Before & After SMOTE**
+   
    ![](assets/class_imbalance.png)
 
-2. **Model Comparison Plot**
+3. **Model Comparison Plot**
+   
    ![](assets/model_comparison.png)
 
-3. **Optuna Optimization History & Parameter Importance**
+5. **Optuna Optimization History & Parameter Importance**
+6. 
    ![](assets/numeric_feature_distribution.png)
 
 ---
