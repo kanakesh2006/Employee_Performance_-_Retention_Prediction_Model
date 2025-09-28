@@ -109,10 +109,10 @@ All results, insights, and visualizations are documented here.
 
 3. **Model Comparison Plot**
    
-   ![](assets/model_comparison.png)
+   ![](assets/model_comparision.png)
 
 5. **Optuna Optimization History & Parameter Importance**
-6. 
+ 
    ![](assets/numeric_feature_distribution.png)
 
 ---
